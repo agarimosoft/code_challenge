@@ -1,0 +1,502 @@
+[
+  {
+    "id": "9b2bec3e-bd52-40dd-a6c9-4d56408f043d",
+    "name": "Marcos Hermiston",
+    "loveScore": 0
+  },
+  {
+    "id": "d9b73d51-68b8-4e39-86d5-40d368880d1d",
+    "name": "Grace Reichel",
+    "loveScore": 1
+  },
+  {
+    "id": "0b229821-b43b-4022-a86d-88cdbf95f35b",
+    "name": "Nicolas Bradtke",
+    "loveScore": 1
+  },
+  {
+    "id": "a5c7ae97-0b39-4de8-8ae6-75599d6c9247",
+    "name": "Kenneth Gulgowski",
+    "loveScore": 2
+  },
+  {
+    "id": "5273f871-8323-4a85-85cc-199789bf1b73",
+    "name": "Shaun Pacocha",
+    "loveScore": 2
+  },
+  {
+    "id": "7655221a-6121-485f-9601-2724ccbe5eb2",
+    "name": "Jerome Gulgowski DVM",
+    "loveScore": 3
+  },
+  {
+    "id": "41da75d2-b3aa-4ecf-9a89-c60ff685f59f",
+    "name": "Denise Gulgowski",
+    "loveScore": 6
+  },
+  {
+    "id": "61aa0b5b-b85b-45d0-abe0-6cbff05d8997",
+    "name": "Timothy Aufderhar",
+    "loveScore": 6
+  },
+  {
+    "id": "db1fb60d-f846-49fc-b28c-c040bc866888",
+    "name": "Aaron Flatley",
+    "loveScore": 6
+  },
+  {
+    "id": "dbef7053-2156-4951-ad86-1c40c7b1ea8a",
+    "name": "Blanche Jakubowski III",
+    "loveScore": 7
+  },
+  {
+    "id": "6e27fce2-3c20-40c1-a12c-c37d5549c44f",
+    "name": "Kelley Gulgowski",
+    "loveScore": 8
+  },
+  {
+    "id": "5be6dfb8-6cb1-4aa2-a168-90cf6b887baf",
+    "name": "Marco Kovacek",
+    "loveScore": 8
+  },
+  {
+    "id": "609dde19-4152-40e7-a01a-3146c1e83a5a",
+    "name": "Wendell Skiles",
+    "loveScore": 8
+  },
+  {
+    "id": "6ca108d6-8158-4c32-9ad3-dcb50e9d0719",
+    "name": "Pablo Legros PhD",
+    "loveScore": 8
+  },
+  {
+    "id": "e33be0da-ecce-4e75-b86a-f8f602cd98e9",
+    "name": "Leland Hills",
+    "loveScore": 9
+  },
+  {
+    "id": "df7bbdda-0414-47f1-8484-7241ce74b30e",
+    "name": "Maxine Pouros",
+    "loveScore": 10
+  },
+  {
+    "id": "6595d54f-8410-46cd-9283-59635ba7ed81",
+    "name": "Guadalupe Howe",
+    "loveScore": 10
+  },
+  {
+    "id": "da1bd5cf-09a1-4f34-a116-20428bf4651f",
+    "name": "Neil Moen I",
+    "loveScore": 10
+  },
+  {
+    "id": "36211ab5-18b7-4cf1-8747-b466e1825e50",
+    "name": "Lorraine Lehner",
+    "loveScore": 10
+  },
+  {
+    "id": "52078544-5271-4e2e-9cc1-e2e0af7ab4a2",
+    "name": "Helen Johnson III",
+    "loveScore": 11
+  },
+  {
+    "id": "e0999ce0-a953-4e8a-a7c7-9a4423d91056",
+    "name": "Jordan Maggio",
+    "loveScore": 11
+  },
+  {
+    "id": "8e225e00-e86a-40ab-a784-5e8ae7495c9c",
+    "name": "Bertha Gleason II",
+    "loveScore": 11
+  },
+  {
+    "id": "3bdab680-de23-4818-8612-99627c72c525",
+    "name": "Allen Hudson",
+    "loveScore": 11
+  },
+  {
+    "id": "1b5de89b-399f-4d4b-8e55-f0f6093dddf0",
+    "name": "Felicia Gusikowski",
+    "loveScore": 13
+  },
+  {
+    "id": "e59708a1-efe4-4ba5-ad1e-c8580aecb3d6",
+    "name": "Lela Wilderman",
+    "loveScore": 13
+  },
+  {
+    "id": "ccb100aa-d81e-45b3-8f34-c7a578860f5a",
+    "name": "Hubert Hilpert",
+    "loveScore": 15
+  },
+  {
+    "id": "a3f05aea-765f-471d-aaba-112edaa687c6",
+    "name": "Dr. Darrel McDermott",
+    "loveScore": 16
+  },
+  {
+    "id": "5aa72eea-2819-4a9c-b299-d42475a7848a",
+    "name": "Lynne Nitzsche",
+    "loveScore": 16
+  },
+  {
+    "id": "e5bb683e-c713-4e83-acae-517f28ad37b2",
+    "name": "Woodrow Price",
+    "loveScore": 17
+  },
+  {
+    "id": "7d51ff00-9f0d-4a8d-b7a5-ce3332f85a57",
+    "name": "Mrs. Gilberto Stoltenberg",
+    "loveScore": 17
+  },
+  {
+    "id": "51b1ef1e-a0a0-479e-9558-ee4734f7523f",
+    "name": "Stacy Fay",
+    "loveScore": 18
+  },
+  {
+    "id": "0bf4067f-5cd5-4762-a8d5-0bf8599dbfff",
+    "name": "Ella Bode II",
+    "loveScore": 19
+  },
+  {
+    "id": "4e09187d-ba99-45e9-8bff-3ee45ee62db8",
+    "name": "Bill Conroy",
+    "loveScore": 19
+  },
+  {
+    "id": "d325486c-0aef-409f-a0fb-1cfbb72128d9",
+    "name": "Inez Doyle",
+    "loveScore": 19
+  },
+  {
+    "id": "727a638b-d35f-468a-a07c-a75988d81edc",
+    "name": "Sergio Douglas",
+    "loveScore": 21
+  },
+  {
+    "id": "6e6c039a-b7ac-42a5-a86d-dceaad4a7de2",
+    "name": "Pablo Rohan",
+    "loveScore": 22
+  },
+  {
+    "id": "7dd63fe2-2602-47c8-8513-d4c49bcc8408",
+    "name": "Pearl Haag",
+    "loveScore": 22
+  },
+  {
+    "id": "300c7d9e-d846-4e2d-ad83-a2bd874d9f70",
+    "name": "Alex Schinner",
+    "loveScore": 24
+  },
+  {
+    "id": "e23ac437-5f50-49dd-a076-21c896e9522f",
+    "name": "Lionel Auer",
+    "loveScore": 24
+  },
+  {
+    "id": "a4f5ada8-20eb-4eef-83dd-ddae0789ccc5",
+    "name": "Sandy Lueilwitz",
+    "loveScore": 25
+  },
+  {
+    "id": "ede80d03-189c-4bec-a14f-b886a5a8ac9c",
+    "name": "Robert Lowe DDS",
+    "loveScore": 25
+  },
+  {
+    "id": "85928216-a9fe-4fad-bba1-889d35bd8373",
+    "name": "Dianne Lowe DVM",
+    "loveScore": 25
+  },
+  {
+    "id": "cc84d170-f62f-466b-ae9e-62e769686bdd",
+    "name": "Bert Kris",
+    "loveScore": 26
+  },
+  {
+    "id": "12656e64-4a96-40e8-8ab5-f39e40819449",
+    "name": "Christy Barton",
+    "loveScore": 26
+  },
+  {
+    "id": "c3c16faf-3d4f-48f9-be1c-0a46c43d956c",
+    "name": "Dominick Corwin",
+    "loveScore": 28
+  },
+  {
+    "id": "3d02b472-b78d-4865-82eb-6037b00875e1",
+    "name": "Francisco Parisian",
+    "loveScore": 28
+  },
+  {
+    "id": "85fe64a0-512b-4b27-8e35-75d65a71dc31",
+    "name": "Mr. Florence Waelchi",
+    "loveScore": 28
+  },
+  {
+    "id": "d3f5a62b-da29-403e-bac6-9866ef3e0bb9",
+    "name": "Lisa Kozey",
+    "loveScore": 28
+  },
+  {
+    "id": "50c6e6b8-f8fa-49e1-81a8-064cf266db00",
+    "name": "Yvette Huel IV",
+    "loveScore": 28
+  },
+  {
+    "id": "fe0fc914-7541-41eb-989c-406992208a0b",
+    "name": "Miguel Walsh",
+    "loveScore": 29
+  },
+  {
+    "id": "93e4b469-e619-4ade-97c4-54114722e1d9",
+    "name": "Miriam Hirthe",
+    "loveScore": 30
+  },
+  {
+    "id": "d01d0cb1-a796-4c26-9402-db42f311f9f1",
+    "name": "Nick Runolfsson",
+    "loveScore": 30
+  },
+  {
+    "id": "e2a9b807-aa2c-4e0a-bfa3-0ad16916e23c",
+    "name": "Miss Angie Bernier",
+    "loveScore": 30
+  },
+  {
+    "id": "8f10f4b2-5a81-46cf-bf58-b45e4f3866f2",
+    "name": "Francisco Schneider V",
+    "loveScore": 32
+  },
+  {
+    "id": "6becf7d2-d86e-4d11-b817-e2a9e571d257",
+    "name": "Sarah Barrows III",
+    "loveScore": 32
+  },
+  {
+    "id": "c7ef42e1-b8c0-4197-a575-f1755e6ddd84",
+    "name": "Miguel Kutch",
+    "loveScore": 32
+  },
+  {
+    "id": "8dbaafb2-2977-4d10-87fc-2689e918d27e",
+    "name": "Gwen Jast",
+    "loveScore": 34
+  },
+  {
+    "id": "f8d68333-4d87-438c-9a25-b0767064f8cd",
+    "name": "Debra Cassin",
+    "loveScore": 34
+  },
+  {
+    "id": "6d6fcd4c-648d-4d0b-b45a-f8bda09df0b3",
+    "name": "Jo Marvin",
+    "loveScore": 35
+  },
+  {
+    "id": "21223fb7-12eb-4655-8d4f-c3de184765de",
+    "name": "Dennis Howell",
+    "loveScore": 36
+  },
+  {
+    "id": "e24879fc-d897-414a-a7f7-7b68e3725fd9",
+    "name": "Shawna Carroll",
+    "loveScore": 36
+  },
+  {
+    "id": "a2751aa5-515f-416f-9810-b2414e8eff31",
+    "name": "Nora Rodriguez IV",
+    "loveScore": 36
+  },
+  {
+    "id": "d89cdc13-2224-43da-a704-3451020cc0fe",
+    "name": "Vickie Runolfsson DDS",
+    "loveScore": 36
+  },
+  {
+    "id": "b7f5aca7-3012-497a-82dd-2b5afc8ce141",
+    "name": "Lance Dach",
+    "loveScore": 37
+  },
+  {
+    "id": "d1fe0d58-1ae1-4aca-8aa7-89029c5814f6",
+    "name": "Bryan King",
+    "loveScore": 37
+  },
+  {
+    "id": "3c8106de-f1ad-49f3-94cc-6892c22d7e0a",
+    "name": "Eva Prohaska",
+    "loveScore": 38
+  },
+  {
+    "id": "994897d3-4310-4e58-b6ec-6315473a7f3a",
+    "name": "Blanca Jenkins",
+    "loveScore": 38
+  },
+  {
+    "id": "4bd4f164-6c8d-4060-b851-0383b5fb0860",
+    "name": "Ollie Jacobs",
+    "loveScore": 39
+  },
+  {
+    "id": "e4440112-ff93-42e5-8692-4f402aad7b58",
+    "name": "Marco Wisozk",
+    "loveScore": 39
+  },
+  {
+    "id": "efc672e1-0384-48c4-b918-26727e5d5430",
+    "name": "Amos Halvorson",
+    "loveScore": 39
+  },
+  {
+    "id": "111d944b-09b4-445e-9b3f-7628a9e30db0",
+    "name": "Daniel Collier II",
+    "loveScore": 40
+  },
+  {
+    "id": "1fddf812-7377-4046-88fc-2fa39f44a4eb",
+    "name": "Bridget McClure",
+    "loveScore": 41
+  },
+  {
+    "id": "173b428e-6362-4508-a8a0-32884b80f66a",
+    "name": "Rosa Harber III",
+    "loveScore": 41
+  },
+  {
+    "id": "730549b1-f14d-4411-9961-db44b3602134",
+    "name": "Lori Kerluke",
+    "loveScore": 41
+  },
+  {
+    "id": "65ebd4e6-7183-4775-8571-daf1d1bffece",
+    "name": "Rebecca Prosacco",
+    "loveScore": 41
+  },
+  {
+    "id": "2f387404-7465-4173-8ca0-9aee5646efa0",
+    "name": "Loretta Schmitt",
+    "loveScore": 42
+  },
+  {
+    "id": "4f7f54c0-bc86-4af7-a19b-94c7e91f7218",
+    "name": "Domingo Gutmann",
+    "loveScore": 42
+  },
+  {
+    "id": "ef4d9b67-ee06-4a9a-888a-8f9791fd389a",
+    "name": "Kurt Welch",
+    "loveScore": 43
+  },
+  {
+    "id": "e98dadef-267f-41e1-be0c-8114edab5802",
+    "name": "Leonard Herman",
+    "loveScore": 43
+  },
+  {
+    "id": "b40f6039-c656-4372-a1a3-25f8ee6a86b0",
+    "name": "Orville Howell",
+    "loveScore": 44
+  },
+  {
+    "id": "11498b5f-4268-4c73-acca-0d4d71e5bad8",
+    "name": "Gilbert Braun",
+    "loveScore": 44
+  },
+  {
+    "id": "d64e7124-7158-4e55-bcfd-44f484aebc42",
+    "name": "Gladys Thompson PhD",
+    "loveScore": 44
+  },
+  {
+    "id": "5c6feb0e-dcfb-4095-80f7-6bf302c4d55c",
+    "name": "James Marks",
+    "loveScore": 45
+  },
+  {
+    "id": "129bb7c2-28ce-40cd-ba8c-450676903d50",
+    "name": "Danielle Nitzsche",
+    "loveScore": 45
+  },
+  {
+    "id": "78edbb03-f929-40ac-8f9a-da3f6a45e2e7",
+    "name": "Mathew Lockman",
+    "loveScore": 46
+  },
+  {
+    "id": "99e7ae31-5aa7-4a80-9a28-e293c01e82df",
+    "name": "Tonya Padberg DVM",
+    "loveScore": 46
+  },
+  {
+    "id": "a46ef949-c468-4d71-85e4-a321f5d14009",
+    "name": "Glenda Keebler",
+    "loveScore": 46
+  },
+  {
+    "id": "cdef6a42-1eed-49ac-b24c-35c0e3c487fb",
+    "name": "Antonio Shields",
+    "loveScore": 46
+  },
+  {
+    "id": "0d1a6513-ece6-4ab5-825d-0434dc28507f",
+    "name": "Elena Hoeger",
+    "loveScore": 47
+  },
+  {
+    "id": "5dd83137-7539-4112-a9c9-0f4e03bc6158",
+    "name": "Miriam Orn",
+    "loveScore": 48
+  },
+  {
+    "id": "fc7354a5-dc07-4ebd-88f0-292f8e2fd132",
+    "name": "Charles Willms",
+    "loveScore": 49
+  },
+  {
+    "id": "ac3d977d-e8df-44b8-9608-3e53abb4492e",
+    "name": "Maryann Feeney",
+    "loveScore": 49
+  },
+  {
+    "id": "5b341468-0135-48cc-b92f-eb8a9ea3dd16",
+    "name": "Leonard Fahey",
+    "loveScore": 67
+  },
+  {
+    "id": "8df63a17-9b82-4a7e-859a-207a4b19abf2",
+    "name": "Ron Blanda II",
+    "loveScore": 68
+  },
+  {
+    "id": "8cdd2ebe-c47d-4818-be2d-7b57e62113d3",
+    "name": "Bernice Waters",
+    "loveScore": 70
+  },
+  {
+    "id": "0233096a-fe74-4809-b9a3-a7eb9e428b2f",
+    "name": "Colin Wisozk",
+    "loveScore": 82
+  },
+  {
+    "id": "2c3283fd-0377-47ad-8db7-3b308f0b0cee",
+    "name": "Sandra Marvin",
+    "loveScore": 87
+  },
+  {
+    "id": "16827efa-1591-43a7-8263-3a460d5e621e",
+    "name": "Billy Wisozk",
+    "loveScore": 89
+  },
+  {
+    "id": "dae653fb-e1fc-46ae-b53b-abb272675709",
+    "name": "Rachel Rau",
+    "loveScore": 90
+  },
+  {
+    "id": "f82a0fb8-4935-4bb1-84f3-eb6a2120f0bb",
+    "name": "Amelia Bins",
+    "loveScore": 96
+  }
+]
