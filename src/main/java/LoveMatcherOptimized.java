@@ -14,31 +14,31 @@ public class LoveMatcherOptimized extends LoveMatcher{
 
     }
     public Set<Match> match() {
-        return (lowerSize < upperSize) ? matchForward() : matchReverse();
+        return (lowerSize < upperSize) ? matchReverse() : matchForward();
     }
 
     public Set<Match> matchForward() {
-        matchMillis = System.currentTimeMillis();
+        matchMillis = System.nanoTime() /1000;
 
         List<User> lower = users.stream().filter(c -> c.loveScore < 50).toList();
         List<User> mid = users.stream().filter(c -> c.loveScore == 50).toList();
         List<User> upper = users.stream().filter(c -> c.loveScore > 50).sorted(Comparator.reverseOrder()).toList();
         Set<Match> aux = matchAll(lower, mid, upper);
 
-        matchMillis = System.currentTimeMillis() - matchMillis;
+        matchMillis = System.nanoTime() / 1000 - matchMillis;
 
         return aux;
     }
 
     public Set<Match> matchReverse() {
-        matchMillis = System.currentTimeMillis();
+        matchMillis = System.nanoTime() / 1000;
 
         List<User> lower = users.stream().filter(c -> c.loveScore < 50).sorted(Comparator.reverseOrder()).toList();
         List<User> mid = users.stream().filter(c -> c.loveScore == 50).toList();
         List<User> upper = users.stream().filter(c -> c.loveScore > 50).toList();
         Set<Match> aux = matchAll(upper, mid, lower);
 
-        matchMillis = System.currentTimeMillis() - matchMillis;
+        matchMillis = System.nanoTime() / 1000 - matchMillis;
 
         return aux;
     }
