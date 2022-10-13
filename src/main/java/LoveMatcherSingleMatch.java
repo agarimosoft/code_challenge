@@ -4,6 +4,9 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**
+ * Finds all single matches
+ */
 public class LoveMatcherSingleMatch extends LoveMatcher {
     private final Map<Integer, Stack<User>> map;
     public LoveMatcherSingleMatch(InputStream is) {

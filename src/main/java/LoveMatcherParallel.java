@@ -3,6 +3,9 @@ import java.util.Collection;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * Finds all possible matches
+ */
 public class LoveMatcherParallel extends LoveMatcherBruteForce {
     public LoveMatcherParallel(InputStream is) {
         super(is);

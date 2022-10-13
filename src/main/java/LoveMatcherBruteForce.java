@@ -2,6 +2,9 @@ import java.io.InputStream;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * Finds all possible matches
+ */
 public class LoveMatcherBruteForce extends LoveMatcher {
     public LoveMatcherBruteForce(InputStream is) {
         super(is);
