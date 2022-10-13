@@ -45,13 +45,13 @@ public class LoveMatcherOptimized extends LoveMatcher{
 
     public Set<Match> matchAll(List<User> smallerList, List<User> mid, List<User> biggerList) {
         Set<Match> aux = smallerList.stream()
-                .map(c -> this.findMatch(c, biggerList))
+                .map(c -> this.findMatches(c, biggerList))
                 .flatMap(Collection::stream)
                 .collect(Collectors.toSet());
 
         if (mid.size() > 1) {
             aux.addAll(mid.stream()
-                    .map(c -> this.findMatch(c, mid))
+                    .map(c -> this.findMatches(c, mid))
                     .flatMap(Collection::stream)
                     .filter(x -> !x.a.equals(x.b))
                     .collect(Collectors.toSet()));
@@ -60,7 +60,7 @@ public class LoveMatcherOptimized extends LoveMatcher{
         return aux;
     }
 
-    public Set<Match> findMatch(User user, List<User> users) {
+    public Set<Match> findMatches(User user, List<User> users) {
         Set<Match> aux = new HashSet<>();
         int value = 100 - user.loveScore;
 
