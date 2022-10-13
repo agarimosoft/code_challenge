@@ -19,7 +19,7 @@ public class LoveMatcherBruteForce extends LoveMatcher {
         return aux;
     }
 
-    public Set<Match> match(User user) {
+    protected Set<Match> match(User user) {
         int value = 100 - user.loveScore;
         return users.stream()
                 .filter(c -> c.loveScore == value)

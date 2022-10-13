@@ -3,7 +3,7 @@ import java.util.Collection;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class LoveMatcherParallel extends LoveMatcher {
+public class LoveMatcherParallel extends LoveMatcherBruteForce {
     public LoveMatcherParallel(InputStream is) {
         super(is);
     }
@@ -18,14 +18,6 @@ public class LoveMatcherParallel extends LoveMatcher {
         matchMillis = System.nanoTime() / 1000 - matchMillis;
 
         return aux;
-    }
-
-    public Set<Match> match(User user) {
-        int value = 100 - user.loveScore;
-        return users.stream()
-                .filter(c -> c.loveScore == value)
-                .map(c -> new Match(user.id, c.id))
-                .collect(Collectors.toSet());
     }
 }
 
